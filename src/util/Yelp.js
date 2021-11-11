@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-const apiKey = "BkrqNgmQb6xiehWFeh-pgajQ88uc2Q0vqZB89atIiLWd5Ednqr_qITdrh2_RcjHooqRqIHwLdPKO-PflNGhQbrVacs81pLIQ3ZDTQB9XJJgpJtHs6Qr8KPGmbRuMYXYx";
+const apiKey = <'Your API Key Here'>;
 
 const Yelp = {
     search(term, location, sortBy) {
